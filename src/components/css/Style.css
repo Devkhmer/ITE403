@@ -1,0 +1,15 @@
+.about{
+    text-align: center;
+    color: #555;
+}
+
+.aboutTitle{
+    text-decoration: underline;
+}
+
+.about img{
+    margin: 20px 0px;
+    width: 50%;
+}
+
+
